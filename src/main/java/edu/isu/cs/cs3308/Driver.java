@@ -9,7 +9,7 @@ import java.util.Random;
 /**
  * Queue Applications
  * @author Isaac Griffith
- * @author 
+ * @author Eric Peterson
  */
 public class Driver {
 
